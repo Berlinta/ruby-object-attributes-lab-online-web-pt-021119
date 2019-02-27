@@ -4,7 +4,7 @@ class Dog
  end
  
  def name
-   @name
+   @name           #ASK ANTONIO
  end
  
  def breed=(new_kind)
